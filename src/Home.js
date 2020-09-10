@@ -13,12 +13,12 @@ function Home() {
                         <Product id="3" title="US Polo Association Men's OTTO Leather Sneakers" price={2163} image="https://images-eu.ssl-images-amazon.com/images/I/41FKvPzvZ9L._AC_SY200_.jpg" rating={4}/>
                     </div>
                     <div className="home_row">
-                        <Product id="2" title="Cracking the Coding Interview (Indian Edition)" price={360} image="https://m.media-amazon.com/images/I/41p1cRZGtaL._AC_SR250,230_.jpg" rating={5}/>
-                        <Product id="4" title="US Polo Association Men's OTTO Leather Sneakers" price={2163} image="https://images-eu.ssl-images-amazon.com/images/I/41FKvPzvZ9L._AC_SY200_.jpg" rating={4}/>
-                        <Product id="5" title="Cracking the Coding Interview (Indian Edition)" price={360} image="https://m.media-amazon.com/images/I/41p1cRZGtaL._AC_SR250,230_.jpg" rating={5}/>
+                        <Product id="1" title="Cracking the Coding Interview (Indian Edition)" price={360} image="https://m.media-amazon.com/images/I/41p1cRZGtaL._AC_SR250,230_.jpg" rating={5}/>
+                        <Product id="3" title="US Polo Association Men's OTTO Leather Sneakers" price={2163} image="https://images-eu.ssl-images-amazon.com/images/I/41FKvPzvZ9L._AC_SY200_.jpg" rating={4}/>
+                        <Product id="1" title="Cracking the Coding Interview (Indian Edition)" price={360} image="https://m.media-amazon.com/images/I/41p1cRZGtaL._AC_SR250,230_.jpg" rating={5}/>
                     </div>
                     <div className="home_row">
-                    <Product id="6" title="US Polo Association Men's OTTO Leather Sneakers" price={2163} image="https://images-eu.ssl-images-amazon.com/images/I/41FKvPzvZ9L._AC_SY200_.jpg" rating={4}/>
+                    <Product id="3" title="US Polo Association Men's OTTO Leather Sneakers" price={2163} image="https://images-eu.ssl-images-amazon.com/images/I/41FKvPzvZ9L._AC_SY200_.jpg" rating={4}/>
                     </div>
                 </div>
             </div>
